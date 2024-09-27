@@ -1,5 +1,5 @@
 💻 Full-Stack Software Engineer
 
-🌐 Interested in blockchain & web3
+🌐 Blockchain & Web3
 
-⚒️ Currently focused on smart contract development
+⚒️ Currently working on [Mento](https://github.com/mento-protocol)

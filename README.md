@@ -1,5 +1,3 @@
-💻 Full-Stack Software Engineer
+💻 Software Engineer - Payments, Stablecoins, Agent Infrastructure
 
-🌐 Blockchain & Web3
-
-⚒️ Currently working on [Mento](https://github.com/mento-protocol)
+⚒️ Building Pact -  trust layer for AI agents
